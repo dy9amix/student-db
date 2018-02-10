@@ -1,0 +1,56 @@
+* {
+box-sizing:border-box;
+}
+
+.btn.btn-sucess.btn-sm
+{
+	height: 30px;
+	width: 90px;
+	    color: #fff;
+    background-color: #28a745;
+    background-image: linear-gradient(-180deg, #34d058 0%, #28a745 90%);
+}
+.btn.btn-danger.btn-sm
+{
+	height: 30px;
+	
+	 color: #fff;
+    background-image: linear-gradient(-180deg, #f73333 0%, #f21818 90%);
+}
+
+.newdata
+{
+	padding-bottom: 20px;
+	padding-left: 50px;
+}
+.studata
+{
+	background-color:#FFFFFF;
+    border:none;
+    box-shadow: 0 5px 16px 0 rgba(0,0,0,0.04);
+}
+
+.modal-content
+{
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+}
+.modal-title
+{
+  text-align: left;
+  position: relative;
+  right: 12em;
+  width: 180px;
+  height: 35px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+font-size: 20px;
+background: #FFFFFF;
+color: #326ADA;
+letter-spacing: 0;
+}
+.delstu
+{
+	padding-left: 80px;
+}
